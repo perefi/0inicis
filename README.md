@@ -1,6 +1,10 @@
 # 0inicis
 Crea un repositori
 
+## Acrivitats
+* [1_llocweb](https://perefi.github.io/1llocweb/)
+* []
+
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
 * [llenguatge etiquetes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
