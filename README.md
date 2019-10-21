@@ -4,6 +4,7 @@ Crea un repositori
 ## Acrivitats
 * [1_llocweb](https://perefi.github.io/1llocweb/)
 * [2 CMYK](https://perefi.github.io/2-CMYK/)
+* [3 Broom](https://perefi.github.io/3-broom/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
