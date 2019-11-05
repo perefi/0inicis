@@ -6,6 +6,7 @@ Crea un repositori
 * [2 CMYK](https://perefi.github.io/2-CMYK/)
 * [3 Broom](https://perefi.github.io/3-broom/)
 * [4](https://perefi.github.io/4/)
+* [5](https://perefi.github.io/5-fletxa/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
