@@ -7,6 +7,8 @@ Crea un repositori
 * [3 Broom](https://perefi.github.io/3-broom/)
 * [4](https://perefi.github.io/4/)
 * [5 moduls-fletxa](https://perefi.github.io/5-moduls-fletxa/)
+* [6 tarjetes](https://perefi.github.io/6-tarjetes/)
+* [7](https://perefi.github.io/7/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
