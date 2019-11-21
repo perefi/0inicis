@@ -9,6 +9,7 @@ Crea un repositori
 * [5 moduls-fletxa](https://perefi.github.io/5-moduls-fletxa/)
 * [6 tarjetes](https://perefi.github.io/6-tarjetes/)
 * [7](https://perefi.github.io/7/)
+* [7 Correcció](https://perefi.github.io/7-correccio/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
