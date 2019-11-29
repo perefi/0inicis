@@ -11,6 +11,7 @@ Crea un repositori
 * [7](https://perefi.github.io/7/)
 * [7 Correcció](https://perefi.github.io/7-correccio/)
 * [8 Grid](https://perefi.github.io/8-Grid/)
+* [9 Grid Template Area](https://perefi.github.io/9-Grid-Template-Area/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
