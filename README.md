@@ -5,13 +5,11 @@ Crea un repositori
 * [1_llocweb](https://perefi.github.io/1llocweb/)
 * [2 CMYK](https://perefi.github.io/2-CMYK/)
 * [3 Broom](https://perefi.github.io/3-broom/)
-* [4](https://perefi.github.io/4/)
-* [5 moduls-fletxa](https://perefi.github.io/5-moduls-fletxa/)
-* [6 tarjetes](https://perefi.github.io/6-tarjetes/)
-* [7](https://perefi.github.io/7/)
-* [7 Correcció](https://perefi.github.io/7-correccio/)
-* [8 Grid](https://perefi.github.io/8-Grid/)
-* [9 Grid Template Area](https://perefi.github.io/9-Grid-Template-Area/)
+* [4 Maquetació](https://perefi.github.io/4/)
+* [5 tarjetes](https://perefi.github.io/6-tarjetes/)
+* [6 Landingpage](https://perefi.github.io/7-correccio/)
+* [7 Grid_Moma](https://perefi.github.io/8-Grid/)
+* [8 Gridarea_Minimshop](https://perefi.github.io/9-Grid-Template-Area/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
