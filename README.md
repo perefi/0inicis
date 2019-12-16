@@ -9,7 +9,8 @@ Crea un repositori
 * [5 tarjetes](https://perefi.github.io/6-tarjetes/)
 * [6 Landingpage](https://perefi.github.io/7-correccio/)
 * [7 Grid_Moma](https://perefi.github.io/8-Grid/)
-* [8 Gridarea_Minimshop](https://perefi.github.io/9-Grid-Template-Area/)
+* [8 Gridarea_Minimshop](https://perefi.github.io/9-Grid-Template-Area/) 
+* [Examen](https://perefi.github.io/Examen/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
