@@ -11,7 +11,9 @@ Crea un repositori
 * [7 Grid_Moma](https://perefi.github.io/8-Grid/)
 * [8 Gridarea_Minimshop](https://perefi.github.io/9-Grid-Template-Area/) 
 * [Examen](https://perefi.github.io/Examen/)
+* [13_Aesop](https://perefi.github.io/13_aesop/)
 * [14_JS](https://perefi.github.io/14_js/)
+
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
