@@ -14,7 +14,7 @@ Crea un repositori
 * [13_Aesop](https://perefi.github.io/13_aesop/)
 * [14_JS](https://perefi.github.io/14_js/)
 * [15_Menus](https://perefi.github.io/15_menus/)
-* [17_Portfoli]https://perefi.github.io/17-Portfoli/)
+* [15_Portfoli](https://perefi.github.io/17-Portfoli/)
 
 
 
