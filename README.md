@@ -15,6 +15,8 @@ Crea un repositori
 * [14_JS](https://perefi.github.io/14_js/)
 * [15_Menus](https://perefi.github.io/15_menus/)
 * [15_Portfoli](https://perefi.github.io/17-Portfoli/)
+* [15_Portfoli](https://perefi.github.io/17-Portfoli/)
+* [15_Examen 2](https://perefi.github.io/Exmen-2/)
 
 
 
